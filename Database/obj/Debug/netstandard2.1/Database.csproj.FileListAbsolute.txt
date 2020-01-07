@@ -1,0 +1,8 @@
+C:\_projs\MinhaGuild\Database\bin\Debug\netstandard2.1\Database.deps.json
+C:\_projs\MinhaGuild\Database\bin\Debug\netstandard2.1\Database.dll
+C:\_projs\MinhaGuild\Database\bin\Debug\netstandard2.1\Database.pdb
+C:\_projs\MinhaGuild\Database\obj\Debug\netstandard2.1\Database.AssemblyInfoInputs.cache
+C:\_projs\MinhaGuild\Database\obj\Debug\netstandard2.1\Database.AssemblyInfo.cs
+C:\_projs\MinhaGuild\Database\obj\Debug\netstandard2.1\Database.dll
+C:\_projs\MinhaGuild\Database\obj\Debug\netstandard2.1\Database.pdb
+C:\_projs\MinhaGuild\Database\obj\Debug\netstandard2.1\Database.csprojAssemblyReference.cache
